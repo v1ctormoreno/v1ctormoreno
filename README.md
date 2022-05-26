@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning Microsoft 365 and Azure stuff
+- 📫 How to reach me: You can reach out to me via email at victor[at]victormoreno[dot]es 
+
+
+
